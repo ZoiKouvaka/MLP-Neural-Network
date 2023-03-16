@@ -1,5 +1,6 @@
 # MLP-Neural-Network
-A colab with Vasiliki Katogianni and Athanasios Katsilieris
+A collab with Vasiliki Katogianni and Athanasios Katsilieris
+
 A neural network classifying examples of type (x1,x2) as following:
 1) if (x1 – 0.5)2 + (x2 – 0.5)2 <0.2, and x2>0.5 classify example in category C1,
 2) if (x1 – 0.5)2 + (x2 – 0.5)2 <0.2, and x2<0.5 classify example in category C2,
