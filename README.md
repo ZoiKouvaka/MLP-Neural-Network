@@ -14,5 +14,7 @@ A neural network classifying examples of type (x1,x2) as following:
 Changing the number of neurons in each level is possible and leads to different success ratio. (20-22-18 gives a 96.35% of success ratio)
 
 java generateData>datatest.txt will produce an example-category file
+
 java sortprogram>XYZ.txt will produce an example- category file containing the examples of datatest.txt and the classification done by MLP. If correct, number of example category is shown,while number 4 is a sign of wrong classification. 
+
 run graphmaker.py to see wrong classified examples marked with red colour. Change line number two to open XYZ.txt file from previous step
